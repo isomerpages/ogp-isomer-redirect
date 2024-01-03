@@ -9,7 +9,7 @@ sections:
   - hero:
       title: This site is unreachable at the moment
       subtitle: Try navigating to the page again or try these fixes below
-      background: /images/hero-banner.png
+      background: /images/test_hero_02.png
       variant: side
       size: md
       alignment: left
