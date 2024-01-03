@@ -10,7 +10,7 @@ sections:
       title: This site is unreachable at the moment
       subtitle: Try navigating to the page again or try these fixes below
       background: /images/test_hero_02.png
-      variant: side
+      variant: floating
       size: md
       alignment: left
       backgroundColor: white
