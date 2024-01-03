@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: You've been redirected
+title: This site couldn't be loaded
 description: This is a redirection site for Isomer
 image: /images/isomer-logo.svg
 permalink: /
