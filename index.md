@@ -4,28 +4,29 @@ title: You've been redirected
 description: This is a redirection site for Isomer
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This is an Isomer system status page
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: This site is unreachable at the moment
+      subtitle: Try navigating to the page again or try these fixes below
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      variant: side
+      size: md
+      alignment: left
+      backgroundColor: white
+  - infopic:
+      title: Reload the site with https://www
+      id: infopic
+      description: Add https://www to the beginning of the URL that you were trying to load
+      image: /images/redir_https_02.png
+      alt: Illustration, web page
+  - infopic:
+      title: Contact Isomer support
+      id: infopic
+      description: If the site continues to fail to load, please contact Isomer
+        support at support@isomer.gov.sg
+      button: Email support
+      url: mailto:support@isomer.gov.sg
+      image: /images/redir_support.png
+      alt: Illustration support person
 ---
