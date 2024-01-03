@@ -9,7 +9,7 @@ sections:
   - hero:
       title: This site is unreachable at the moment
       subtitle: Try navigating to the page again or try these fixes below
-      background: /images/test_hero_02.png
+      background: /images/test_hero_04.png
       variant: floating
       size: md
       alignment: left
@@ -19,7 +19,7 @@ sections:
       id: infopic
       description: Add 'https://www' to the beginning of the URL that you were trying
         to load
-      image: /images/redir_https_02.png
+      image: /images/redir_https_03.png
       alt: Illustration, web page
   - infopic:
       title: Contact Isomer support
@@ -28,6 +28,6 @@ sections:
         support@isomer.gov.sg
       button: Email support
       url: mailto:support@isomer.gov.sg
-      image: /images/redir_support.png
+      image: /images/redir_support_03.png
       alt: Illustration, support person
 ---
