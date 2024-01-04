@@ -14,6 +14,18 @@ sections:
       size: md
       alignment: left
       backgroundColor: white
+  - infocols:
+      title: Try these methods
+      id: infocols
+      linktext: email support
+      url: mailto:support@isomer.gov.sg
+      infoboxes:
+        - title: Use a complete URL
+          description: Add 'https://www.' at the start of the URL that you were trying to
+            reach and try again
+        - title: Contact Isomer support
+          description: If the site continues to fail to load, please contact Isomer
+            support at support@isomer.gov.sg
   - infopic:
       title: Reload the site with complete URL
       id: infopic
