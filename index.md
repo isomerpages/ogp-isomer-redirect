@@ -7,8 +7,7 @@ permalink: /
 notification: This is an Isomer system status page
 sections:
   - hero:
-      title: Sorry, that Isomer site is unreachable at the moment
-      subtitle: Please try navigating to the URL again or try these fixes below
+      title: The Isomer site you tried to reach is currently unavailable
       background: /images/test_hero_05.png
       variant: floating
       size: md
