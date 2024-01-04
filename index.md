@@ -7,9 +7,9 @@ permalink: /
 notification: This is an Isomer system status page
 sections:
   - hero:
-      title: This site is unreachable at the moment
-      subtitle: Try navigating to the page again or try these fixes below
-      background: /images/test_hero_04.png
+      title: Sorry, that Isomer site is unreachable at the moment
+      subtitle: Please try navigating to the URL again or try these fixes below
+      background: /images/test_hero_05.png
       variant: floating
       size: md
       alignment: left
@@ -28,6 +28,6 @@ sections:
         support@isomer.gov.sg
       button: Email support
       url: mailto:support@isomer.gov.sg
-      image: /images/redir_support_03.png
+      image: /images/redir_support_05.png
       alt: Illustration, support person
 ---
