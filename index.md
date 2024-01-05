@@ -16,13 +16,13 @@ sections:
   - infocols:
       title: Try these methods
       id: infocols
-      linktext: email support
-      url: mailto:support@isomer.gov.sg
+      linktext: Contact support
+      url: go.gov.sg/isomer-issue
       infoboxes:
         - title: Use a complete URL
           description: Add 'https://www.' at the start of the URL that you were trying to
             reach and try again
         - title: Contact Isomer support
-          description: If the site continues to fail to load, please contact Isomer
-            support at support@isomer.gov.sg
+          description: If you are the site administrator, please contact Isomer support at
+            go.gov.sg/isomer-issue
 ---
