@@ -8,7 +8,7 @@ notification: This is an Isomer system status page
 sections:
   - hero:
       title: The Isomer site you tried to reach is currently unavailable
-      background: /images/test_hero_05.png
+      background: /images/test_hero_06.png
       variant: floating
       size: md
       alignment: left
@@ -25,20 +25,4 @@ sections:
         - title: Contact Isomer support
           description: If the site continues to fail to load, please contact Isomer
             support at support@isomer.gov.sg
-  - infopic:
-      title: Reload the site with complete URL
-      id: infopic
-      description: Add 'https://www' to the beginning of the URL that you were trying
-        to load
-      image: /images/redir_https_03.png
-      alt: Illustration, web page
-  - infopic:
-      title: Contact Isomer support
-      id: infopic
-      description: If the site continues to fail to load, please let us know at
-        support@isomer.gov.sg
-      button: Email support
-      url: mailto:support@isomer.gov.sg
-      image: /images/redir_support_05.png
-      alt: Illustration, support person
 ---
