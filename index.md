@@ -1,32 +1,28 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: This site couldn't be loaded
+description: This is a redirection site for Isomer
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This is an Isomer system status page
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: The Isomer site you tried to reach is currently unavailable
+      background: /images/test_hero_06.png
+      variant: floating
+      size: md
+      alignment: left
+      backgroundColor: white
+  - infocols:
+      title: Try these methods
+      id: infocols
+      linktext: email support
+      url: mailto:support@isomer.gov.sg
+      infoboxes:
+        - title: Use a complete URL
+          description: Add 'https://www.' at the start of the URL that you were trying to
+            reach and try again
+        - title: Contact Isomer support
+          description: If the site continues to fail to load, please contact Isomer
+            support at support@isomer.gov.sg
 ---
-
