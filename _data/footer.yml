@@ -1,6 +1,4 @@
-contact_us: /contact-us/
-show_reach: true
+show_reach: false
 social_media: {}
-feedback: ""
-terms_of_use: "https://www.isomer.gov.sg/terms-of-use/"
-privacy_policy: "https://www.isomer.gov.sg/privacy/"
+terms_of_use: https://www.isomer.gov.sg/terms-of-use/
+privacy_policy: https://www.isomer.gov.sg/privacy/
