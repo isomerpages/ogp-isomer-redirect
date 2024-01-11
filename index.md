@@ -17,7 +17,7 @@ sections:
       title: Try these methods
       id: infocols
       linktext: Contact Support
-      url: go.gov.sg/isomer-issue
+      url: https://go.gov.sg/isomer-issue
       infoboxes:
         - title: Use a complete URL
           description: Add 'https://www.' at the start of the URL you were trying to reach
